@@ -21,6 +21,7 @@ I'm a Proactive and analytical **Data Analyst** with 4+ years of experience in S
 - **📊 Cryptocurrency Price Prediction**: Built predictive models for BTC/USDT trends using machine learning.
 - **🔍 Amazon Product Review Sentiment Analysis**: Analyzed customer sentiment using NLP (VADER, NLTK).
 - **🚀 Branch Operations Optimization**: Implemented Excel and Power BI solutions to analyze and improve branch workflows.
+- **🛡️ Hate Speech Detection with NLP**: Developed a machine learning model using **DistilBERT** and **TopicBERT** to detect hate speech in online text data. Enhanced classification through natural language processing techniques and fine-tuned the models for higher accuracy.
 
 ---
 
