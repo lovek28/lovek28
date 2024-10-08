@@ -2,12 +2,6 @@
 ### **Data Analyst | Software Developer**
 
 I'm a Proactive and analytical **Data Analyst** with 4+ years of experience in Software development industry, bringing a unique blend of technical expertise and data-driven problem-solving to deliver impactful insights. Highly knowledgeable in data Extraction, Transform & Load (ETL/ELT), and proficient in tools like SQL, Excel, PowerBI, Python and statistical analysis techniques. Eager to apply my strong technical background and analytical skills to support data-driven decision-making in a dynamic, results-oriented environment.
-shorten this to 2 lines as pitchy and attractive
-
-### 🌟 **What I Do**  
-- Analyze branch operations, cryptocurrency trends, and sentiment analysis  
-- Build intelligent solutions using machine learning and data-driven strategies  
-- Craft mobile applications with user-centric features and robust architecture  
 
 ---
 
