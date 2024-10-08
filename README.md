@@ -1,5 +1,5 @@
-# 👋 **Hi there, I’m [Your Name]**  
-### **Data Analyst | Software Developer | ML Enthusiast**
+# 👋 **Hi there, I’m Love**  
+### **Data Analyst | Software Developer**
 
 I’m a **Data Analyst** and **Software Developer** passionate about solving real-world problems through **data** and **technology**. With 4+ years of experience in **software development** and a growing skill set in **machine learning** and **data analytics**, I enjoy diving deep into complex data, extracting insights, and building impactful solutions.
 
