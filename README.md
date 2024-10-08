@@ -20,9 +20,9 @@ I'm a Proactive and analytical **Data Analyst** with 4+ years of experience in S
 
 ### 🔥 **GitHub Highlights**
 
-| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=highcontrast) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=highcontrast) |
+| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lovek28&theme=highcontrast) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lovek28&layout=compact&theme=highcontrast) |
 | ------------------------------------------------------------ | ------------------------------------------------------------- |
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=highcontrast) | ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=your-username.your-username) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lovek28&show_icons=true&theme=highcontrast) | ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=lovek28.lovek28) |
 
 ---
 
