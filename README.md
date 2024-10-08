@@ -16,21 +16,37 @@ I'm a Proactive and analytical **Data Analyst** with 4+ years of experience in S
 | :------------------------: | :----------------------: | :-----------------: |
 | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) | **Data Analysis** (Excel, Power BI) **Machine Learning** (Pandas, NumPy, MatPlotLib, Seaborn,scikit-learn, TensorFlow) **NLP** (NLTK, DistilBERT) |
 
-### 🛠 **Project Highlights**
-- **📊 Cryptocurrency Price Prediction**: Built predictive models for BTC/USDT trends using machine learning.
-- **🔍 Amazon Product Review Sentiment Analysis**: Analyzed customer sentiment using NLP (VADER, NLTK).
-- **🚀 Branch Operations Optimization**: Implemented Excel and Power BI solutions to analyze and improve branch workflows.
+---
+
+### 📊 **GitHub Charts**
+
+#### **Languages & Contributions**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=highcontrast" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=highcontrast" alt="Top Languages" />
+</p>
 
 ---
 
-### 🔥 **GitHub Highlights**
+#### **Code Contributions Over Time**
 
-| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lovek28&theme=highcontrast) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lovek28&layout=compact&theme=highcontrast) |
-| ------------------------------------------------------------ | ------------------------------------------------------------- |
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lovek28&show_icons=true&theme=highcontrast) | ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=lovek28.lovek28) |
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=highcontrast" alt="GitHub Streak" />
+</p>
 
 ---
 
+### 📈 **Data Visualization**  
+Here's a sneak peek of my data analysis work:
+
+#### **Cryptocurrency Price Prediction Trends**  
+![Chart](https://quickchart.io/chart/render/sf-1f2bfebc-d838-48b8-95ab-9ab39e5b1944)
+
+#### **Sentiment Analysis Results**  
+![Sentiment Pie Chart](https://quickchart.io/chart/render/sf-f6b20c3d-6cd2-43f2-8152-3762f88cfed6)
+
+---
 ### ✉️ **Let's Connect!**
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lovek28)
