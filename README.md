@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=500&color=AC79F2&center=true&vCenter=true&width=500&lines=Love" alt="Typing SVG" />
 </p>
 
-### **Data Analyst | Software Developer**
+### **Data Analyst | Software Engineer**
 
 I'm a Proactive and analytical **Data Analyst** with 4+ years of experience in Software development industry, bringing a unique blend of technical expertise and data-driven problem-solving to deliver impactful insights. Highly knowledgeable in data Extraction, Transform & Load (ETL/ELT), and proficient in tools like SQL, Excel, PowerBI, Python and statistical analysis techniques. Eager to apply my strong technical background and analytical skills to support data-driven decision-making in a dynamic, results-oriented environment.
 
