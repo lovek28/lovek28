@@ -1,7 +1,7 @@
 # 👋 **Hi there**
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=500&color=000000&center=true&vCenter=true&width=500&lines=Myself, Love" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=500&color=241401&center=true&vCenter=true&width=500&lines=Myself, Love" alt="Typing SVG" />
 </p>
 
 ### **Data Analyst | Software Engineer**
