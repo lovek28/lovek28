@@ -6,7 +6,7 @@
 
 ### **Data Analyst | Software Engineer**
 
-I'm a Proactive and analytical **Data Analyst** with 4+ years of experience in Software development industry, bringing a unique blend of technical expertise and data-driven problem-solving to deliver impactful insights. Highly knowledgeable in data Extraction, Transform & Load (ETL/ELT), and proficient in tools like SQL, Excel, PowerBI, Python, Azure and statistical analysis techniques. Eager to apply my strong technical background and analytical skills to support data-driven decision-making in a dynamic, results-oriented environment.
+I'm a Proactive and analytical **Data Analyst** with 4+ years of experience in Software development industry, bringing a unique blend of technical expertise and data-driven problem-solving to deliver impactful insights. Highly knowledgeable in data Extraction, Transform & Load (ETL/ELT), and proficient in tools like SQL, Excel, PowerBI, Python, Azure and statistical analysis techniques.
 
 ---
 
